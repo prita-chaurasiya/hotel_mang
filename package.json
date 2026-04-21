@@ -1,0 +1,12 @@
+{
+  "name": "hotel-management-frontend",
+  "private": true,
+  "description": "Run scripts from repo root; app lives in ./h",
+  "scripts": {
+    "setup": "npm install --prefix ./h",
+    "dev": "npm run dev --prefix ./h",
+    "build": "npm run build --prefix ./h",
+    "preview": "npm run preview --prefix ./h",
+    "lint": "npm run lint --prefix ./h"
+  }
+}

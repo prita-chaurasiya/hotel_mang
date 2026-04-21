@@ -1,0 +1,119 @@
+{
+  "bannerImage": "https://images.unsplash.com/photo-1611892440504-42a792e54d33?auto=format&fit=crop&w=1920&q=82",
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Presidential Suite",
+      "featured": true,
+      "badge": "Popular",
+      "price": 599,
+      "originalPrice": 899,
+      "capacity": 4,
+      "size": "1200 sq ft",
+      "beds": "King Bed",
+      "rating": 4.9,
+      "reviews": 128,
+      "description": "Experience the pinnacle of luxury in our Presidential Suite. Featuring a private terrace with ocean views, a separate living area, and a lavish marble bathroom with a jacuzzi tub.",
+      "longDescription": "The Presidential Suite at Royella Resort offers an unparalleled experience of luxury and comfort. Spread across 1200 square feet, this suite features a master bedroom with a king-sized bed, a separate living room, dining area, and a private balcony overlooking the ocean. The marble bathroom includes a jacuzzi tub, rain shower, and premium toiletries.",
+      "amenities": ["Free WiFi", "Breakfast Included", "24/7 Room Service", "Mini Bar", "Air Conditioning", "Smart TV", "Jacuzzi", "Private Balcony", "Ocean View", "Butler Service", "Premium Toiletries", "Work Desk"],
+      "images": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=1200&q=82"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=82",
+      "amenitiesShort": ["Ocean View", "Jacuzzi", "Private Pool", "Butler Service"]
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Ocean View",
+      "featured": true,
+      "badge": "Best Value",
+      "price": 349,
+      "originalPrice": 499,
+      "capacity": 3,
+      "size": "800 sq ft",
+      "beds": "Queen Bed",
+      "rating": 4.7,
+      "reviews": 94,
+      "description": "Wake up to breathtaking ocean views in our Deluxe Ocean View room. Enjoy modern amenities and a private balcony to soak in the stunning sunsets.",
+      "longDescription": "Our Deluxe Ocean View rooms offer the perfect blend of comfort and style. With floor-to-ceiling windows that frame the azure waters, these rooms provide a serene retreat. The room features a queen-sized bed, a seating area, and a private balcony where you can enjoy your morning coffee while watching the waves.",
+      "amenities": ["Free WiFi", "Breakfast Included", "Room Service", "Mini Bar", "Air Conditioning", "Smart TV", "Ocean View", "Private Balcony", "Rain Shower", "Premium Toiletries"],
+      "images": [
+        "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=82"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=82",
+      "amenitiesShort": ["Ocean View", "Bathtub", "Mini Bar", "Balcony"]
+    },
+    {
+      "id": 3,
+      "name": "Executive Room",
+      "featured": true,
+      "badge": "New",
+      "price": 249,
+      "capacity": 2,
+      "size": "600 sq ft",
+      "beds": "King Bed",
+      "rating": 4.6,
+      "reviews": 76,
+      "description": "Perfect for business travelers, our Executive Room combines comfort with functionality. Features a dedicated workspace and ergonomic chair.",
+      "longDescription": "Designed with the modern traveler in mind, our Executive Rooms offer a perfect balance of work and relaxation. The room includes a king-sized bed, a large work desk with ergonomic chair, and high-speed internet access. After a busy day, unwind in the comfortable seating area or enjoy a show on the smart TV.",
+      "amenities": ["Free WiFi", "Breakfast Included", "Room Service", "Mini Bar", "Air Conditioning", "Smart TV", "Work Desk", "City View", "Rain Shower"],
+      "images": [
+        "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=82"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=82",
+      "amenitiesShort": ["City View", "Work Desk", "Mini Bar", "Express Check-in"]
+    },
+    {
+      "id": 4,
+      "name": "Family Suite",
+      "featured": false,
+      "badge": "Family",
+      "price": 449,
+      "originalPrice": 599,
+      "capacity": 5,
+      "beds": "2 Queen Beds",
+      "size": "950 sq ft",
+      "rating": 4.8,
+      "reviews": 62,
+      "description": "Spacious suite for families with connecting areas and ocean glimpses.",
+      "longDescription": "Our Family Suite offers two queen beds, a living nook, and extra storage—ideal for longer stays with children.",
+      "amenities": ["Free WiFi", "Breakfast Included", "Room Service", "Mini Bar", "Air Conditioning", "Smart TV", "Sofa Bed", "Ocean View"],
+      "images": [
+        "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=82"
+      ],
+      "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=82",
+      "amenitiesShort": ["Family", "Living area", "Ocean glimpse", "Storage"]
+    },
+    {
+      "id": 5,
+      "name": "Standard Room",
+      "featured": false,
+      "badge": "Essential",
+      "price": 149,
+      "originalPrice": 199,
+      "capacity": 2,
+      "beds": "Double Bed",
+      "size": "420 sq ft",
+      "rating": 4.3,
+      "reviews": 41,
+      "description": "Comfortable essentials with smart layout and quiet HVAC.",
+      "longDescription": "A cozy retreat with a double bed, work desk, and rain shower—perfect for short city–beach trips.",
+      "amenities": ["Free WiFi", "Breakfast Included", "Air Conditioning", "Smart TV", "Rain Shower", "Work Desk"],
+      "images": [
+        "https://images.unsplash.com/photo-1591088398332-8a779197284f?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=82",
+        "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=1200&q=82"
+      ],
+      "image": "https://images.unsplash.com/photo-1591088398332-8a779197284f?auto=format&fit=crop&w=1200&q=82",
+      "amenitiesShort": ["Quiet HVAC", "Work desk", "Rain shower", "Smart TV"]
+    }
+  ]
+}

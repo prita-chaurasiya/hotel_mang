@@ -1,0 +1,97 @@
+{
+  "seo": {
+    "title": "Royella Resort - Luxury Hotel & Resort",
+    "description": "Experience luxury and comfort at Royella Resort. Book your stay at the best beachfront resort with world-class amenities."
+  },
+  "heroAutoplayMs": 6500,
+  "heroSlides": [
+    {
+      "id": "h1",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1920&q=82",
+      "badge": "Award Winning Resort",
+      "titleLine1": "Experience Luxury",
+      "titleAccent": "& Comfort",
+      "subtitle": "Discover unparalleled hospitality at Royella Resort — where every stay becomes a cherished memory."
+    },
+    {
+      "id": "h2",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1920&q=82",
+      "badge": "Oceanfront Escape",
+      "titleLine1": "Wake Up To",
+      "titleAccent": "The Sea",
+      "subtitle": "Suites and residences designed for calm, space, and unforgettable sunsets."
+    },
+    {
+      "id": "h3",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=1920&q=82",
+      "badge": "Pools & Wellness",
+      "titleLine1": "Relax, Recharge,",
+      "titleAccent": "Repeat",
+      "subtitle": "Infinity pools, spa rituals, and dining curated for slow evenings."
+    }
+  ],
+  "gallery": [
+    { "url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=82", "title": "Luxury Suite" },
+    { "url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=1200&q=82", "title": "Infinity Pool" },
+    { "url": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=1200&q=82", "title": "Fine Dining" },
+    { "url": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1200&q=82", "title": "Spa Center" },
+    { "url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=82", "title": "Beach View" },
+    { "url": "https://images.unsplash.com/photo-1582719509869-41e7e4ebc6b5?auto=format&fit=crop&w=1200&q=82", "title": "Executive Lounge" }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Emily Johnson",
+      "location": "New York, USA",
+      "rating": 5,
+      "text": "Absolutely incredible experience! The staff went above and beyond to make our stay memorable. The ocean view from our suite was breathtaking.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=82"
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "location": "Singapore",
+      "rating": 5,
+      "text": "Best resort I have ever stayed at. The amenities are world-class, and the food is exceptional. Will definitely come back!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=82"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Williams",
+      "location": "London, UK",
+      "rating": 4,
+      "text": "Luxury at its finest. The spa treatments were heavenly, and the infinity pool is Instagram-worthy! Highly recommended.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=200&q=82"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "location": "Sydney, Australia",
+      "rating": 5,
+      "text": "Perfect honeymoon destination. The private beach and sunset views are unmatched. Service is impeccable.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=82"
+    }
+  ],
+  "amenityHighlights": [
+    {
+      "title": "Infinity pool",
+      "caption": "Sunrise laps & cabanas",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=900&q=82"
+    },
+    {
+      "title": "Spa & wellness",
+      "caption": "Treatments & sauna",
+      "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=900&q=82"
+    },
+    {
+      "title": "Chef’s table",
+      "caption": "Coastal tasting menus",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=900&q=82"
+    },
+    {
+      "title": "Fitness studio",
+      "caption": "Classes & trainers",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=82"
+    }
+  ]
+}
